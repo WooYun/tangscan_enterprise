@@ -1,0 +1,6 @@
+site_name: TangScan企业使用指南 
+
+pages:
+- [index.md, Home]
+
+theme: readthedocs
